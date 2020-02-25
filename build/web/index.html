@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .izquierda{
+                width: 30%;
+                float: right;
+            }
+            .derecha{
+                width: 60%;
+                float: left;
+            }
+            img{width: 50%;}
+        </style>
+        <script src="codigo.js"></script>
+    </head>
+    <body>
+        <h1>El ahorcado</h1>
+        <div>
+            <div class="derecha">
+                <input type="text" id="texto">
+                <input type="button" value="Comprobar" id="validar">
+                <div>
+                    <p id="palabra"></p>
+                </div>
+            </div>
+            <div class="izquierda">
+                <div id="letras">
+
+                </div>
+                <div >
+                    <img src="./imagenes/0.png" alt="" id="imagen">
+                    <h1>Letras Usadas</h1>
+                    <p id="usadas"></p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

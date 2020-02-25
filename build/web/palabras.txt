@@ -1,0 +1,302 @@
+[
+	{
+		"Palabras": "Somalia"
+	},
+	{
+		"Palabras": "Indonesia"
+	},
+	{
+		"Palabras": "Sint Maarten"
+	},
+	{
+		"Palabras": "Hungary"
+	},
+	{
+		"Palabras": "Wallis and Futuna"
+	},
+	{
+		"Palabras": "Dominica"
+	},
+	{
+		"Palabras": "Serbia"
+	},
+	{
+		"Palabras": "Gibraltar"
+	},
+	{
+		"Palabras": "South Georgia and The South Sandwich Islands"
+	},
+	{
+		"Palabras": "Thailand"
+	},
+	{
+		"Palabras": "Sao Tome and Principe"
+	},
+	{
+		"Palabras": "Korea, North"
+	},
+	{
+		"Palabras": "Czech Republic"
+	},
+	{
+		"Palabras": "Kenya"
+	},
+	{
+		"Palabras": "Tajikistan"
+	},
+	{
+		"Palabras": "Mozambique"
+	},
+	{
+		"Palabras": "Tanzania"
+	},
+	{
+		"Palabras": "Mongolia"
+	},
+	{
+		"Palabras": "Singapore"
+	},
+	{
+		"Palabras": "Botswana"
+	},
+	{
+		"Palabras": "Mayotte"
+	},
+	{
+		"Palabras": "Belgium"
+	},
+	{
+		"Palabras": "South Georgia and The South Sandwich Islands"
+	},
+	{
+		"Palabras": "Isle of Man"
+	},
+	{
+		"Palabras": "Rwanda"
+	},
+	{
+		"Palabras": "Seychelles"
+	},
+	{
+		"Palabras": "Western Sahara"
+	},
+	{
+		"Palabras": "Dominican Republic"
+	},
+	{
+		"Palabras": "China"
+	},
+	{
+		"Palabras": "Jordan"
+	},
+	{
+		"Palabras": "Vanuatu"
+	},
+	{
+		"Palabras": "Saint Barthélemy"
+	},
+	{
+		"Palabras": "Thailand"
+	},
+	{
+		"Palabras": "Antarctica"
+	},
+	{
+		"Palabras": "New Zealand"
+	},
+	{
+		"Palabras": "Djibouti"
+	},
+	{
+		"Palabras": "Tanzania"
+	},
+	{
+		"Palabras": "Uruguay"
+	},
+	{
+		"Palabras": "San Marino"
+	},
+	{
+		"Palabras": "Kyrgyzstan"
+	},
+	{
+		"Palabras": "Canada"
+	},
+	{
+		"Palabras": "Austria"
+	},
+	{
+		"Palabras": "Aruba"
+	},
+	{
+		"Palabras": "Bhutan"
+	},
+	{
+		"Palabras": "Samoa"
+	},
+	{
+		"Palabras": "Malta"
+	},
+	{
+		"Palabras": "Austria"
+	},
+	{
+		"Palabras": "Zimbabwe"
+	},
+	{
+		"Palabras": "Burundi"
+	},
+	{
+		"Palabras": "Rwanda"
+	},
+	{
+		"Palabras": "Zimbabwe"
+	},
+	{
+		"Palabras": "Turkey"
+	},
+	{
+		"Palabras": "Guadeloupe"
+	},
+	{
+		"Palabras": "Trinidad and Tobago"
+	},
+	{
+		"Palabras": "Togo"
+	},
+	{
+		"Palabras": "Trinidad and Tobago"
+	},
+	{
+		"Palabras": "Chad"
+	},
+	{
+		"Palabras": "Kuwait"
+	},
+	{
+		"Palabras": "Congo, the Democratic Republic of the"
+	},
+	{
+		"Palabras": "Saint Helena, Ascension and Tristan da Cunha"
+	},
+	{
+		"Palabras": "Morocco"
+	},
+	{
+		"Palabras": "Sao Tome and Principe"
+	},
+	{
+		"Palabras": "Nigeria"
+	},
+	{
+		"Palabras": "Korea, North"
+	},
+	{
+		"Palabras": "South Sudan"
+	},
+	{
+		"Palabras": "Philippines"
+	},
+	{
+		"Palabras": "Holy See (Vatican City State)"
+	},
+	{
+		"Palabras": "Sint Maarten"
+	},
+	{
+		"Palabras": "Solomon Islands"
+	},
+	{
+		"Palabras": "Bulgaria"
+	},
+	{
+		"Palabras": "Benin"
+	},
+	{
+		"Palabras": "Brazil"
+	},
+	{
+		"Palabras": "Western Sahara"
+	},
+	{
+		"Palabras": "Algeria"
+	},
+	{
+		"Palabras": "India"
+	},
+	{
+		"Palabras": "Cook Islands"
+	},
+	{
+		"Palabras": "Macao"
+	},
+	{
+		"Palabras": "Christmas Island"
+	},
+	{
+		"Palabras": "Aruba"
+	},
+	{
+		"Palabras": "Burundi"
+	},
+	{
+		"Palabras": "Bulgaria"
+	},
+	{
+		"Palabras": "Russian Federation"
+	},
+	{
+		"Palabras": "Dominican Republic"
+	},
+	{
+		"Palabras": "Turks and Caicos Islands"
+	},
+	{
+		"Palabras": "Bangladesh"
+	},
+	{
+		"Palabras": "Palau"
+	},
+	{
+		"Palabras": "Indonesia"
+	},
+	{
+		"Palabras": "Botswana"
+	},
+	{
+		"Palabras": "Finland"
+	},
+	{
+		"Palabras": "El Salvador"
+	},
+	{
+		"Palabras": "Puerto Rico"
+	},
+	{
+		"Palabras": "Falkland Islands"
+	},
+	{
+		"Palabras": "Poland"
+	},
+	{
+		"Palabras": "Tanzania"
+	},
+	{
+		"Palabras": "Cambodia"
+	},
+	{
+		"Palabras": "Honduras"
+	},
+	{
+		"Palabras": "Poland"
+	},
+	{
+		"Palabras": "United States"
+	},
+	{
+		"Palabras": "Benin"
+	},
+	{
+		"Palabras": "Afghanistan"
+	}
+]
